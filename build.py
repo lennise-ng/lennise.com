@@ -314,6 +314,9 @@ def build():
     body = render("about.html", body=md(about_md), email=EMAIL)
     write("about/index.html", page("About", body))
 
+    # --- "what is RSS" page, linked from the footer
+    write("feed/index.html", page("Follow by RSS", render("feed.html")))
+
     # --- RSS
     items = "".join(
         render(
