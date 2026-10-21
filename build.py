@@ -196,13 +196,37 @@ def letters_block(letters, heading="Letters on this essay"):
     return render("_letters.html", heading=heading, items=items)
 
 
+def split_margin(body):
+    """
+    A margin entry is plain Markdown, optionally with a title on its first
+    line ('### Title') and tags on its last line ('tags: A · B'). Both are
+    optional, so the older one-line entries need no change.
+    Returns (title, tags, body_markdown).
+    """
+    lines = body.strip().splitlines()
+    title = tags = ""
+    if lines and lines[0].startswith("### "):
+        title = lines.pop(0)[4:].strip()
+    if lines and lines[-1].lower().startswith("tags:"):
+        tags = lines.pop()[5:].strip()
+    return title, tags, "\n".join(lines)
+
+
 def margins_block(entries, limit=None):
     if limit:
         entries = entries[:limit]
-    return "".join(
-        render("_margin.html", iso=iso, date=short_date(iso), body=md(body))
-        for iso, body in entries
-    )
+    out = []
+    for iso, raw in entries:
+        title, tags, body = split_margin(raw)
+        out.append(render(
+            "_margin.html",
+            iso=iso,
+            date=short_date(iso),
+            title=f'<p class="margin-title">{html.escape(title)}</p>' if title else "",
+            body=md(body),
+            tags=f'<p class="meta">{html.escape(tags)}</p>' if tags else "",
+        ))
+    return "".join(out)
 
 
 # ------------------------------------------------------------------- build

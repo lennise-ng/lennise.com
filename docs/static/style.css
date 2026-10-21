@@ -177,6 +177,8 @@ img { max-width: 100%; height: auto; display: block; }
 .margin > div { flex: 1 1 400px; min-width: 0; font-size: 18px; line-height: 1.55; }
 .margin p { margin: 0 0 10px; }
 .margin p:last-child { margin: 0; }
+.margin .margin-title { margin: 0 0 6px; font-size: 22px; font-weight: 500; line-height: 1.3; letter-spacing: -0.01em; }
+.margin .meta { margin: 8px 0 0; }
 
 .letters-home { padding: 56px 0 0; }
 .letters-home .small { margin-top: 20px; }
