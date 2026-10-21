@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Lennise</title>
+<link>https://www.lennise.com/</link>
+<description>Essays on art, business and history · written from Kuala Lumpur</description>
+<language>en</language>
+<atom:link href="https://www.lennise.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>What Malacca&#x27;s traders knew about trust</title>
+<link>https://www.lennise.com/essays/malacca-traders-trust/</link>
+<guid>https://www.lennise.com/essays/malacca-traders-trust/</guid>
+<pubDate>Wed, 14 Oct 2026 08:00:00 +0000</pubDate>
+<description>A port that ran on credit between strangers, and what a 15th-century harbourmaster can teach a founder.</description>
+<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;For about a century, Malacca was the busiest port in Southeast Asia, and almost nobody who traded there spoke the same language as the person across the table. Ships arrived on one monsoon and left on the next. Between arrival and departure, a merchant from Gujarat had to sell to a buyer from Fujian, through a broker from Java, and be paid in a currency none of them had minted.&lt;/p&gt;
+&lt;p&gt;This should not have worked. It worked for a hundred years.&lt;/p&gt;
+&lt;h2&gt;The four harbourmasters&lt;/h2&gt;
+&lt;p&gt;The sultanate&amp;rsquo;s answer was not a law. It was a person. Each major trading community got its own &lt;em&gt;shahbandar&lt;/em&gt;, a harbourmaster drawn from that community, who vouched for its merchants, settled their disputes, and was personally on the hook when they defaulted. Trust was outsourced to someone whose reputation could be destroyed by a single bad trade.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The system did not ask strangers to trust each other. It asked them to trust the same person.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If you have ever built a marketplace, you have rebuilt this. Escrow, verified sellers, reputation scores, dispute resolution — every one of them is a harbourmaster with better data. The interesting question is not whether the mechanism works. It is what the sultanate understood about why it works, and what we have forgotten.&lt;/p&gt;
+&lt;h2&gt;What a founder can take from it&lt;/h2&gt;
+&lt;p&gt;[Three or four paragraphs here: the one lesson, stated plainly, with one example from a business you know well. End on the thing you still can&amp;rsquo;t explain.]&lt;/p&gt;</content:encoded>
+</item>
+<item>
+<title>The patron problem</title>
+<link>https://www.lennise.com/essays/the-patron-problem/</link>
+<guid>https://www.lennise.com/essays/the-patron-problem/</guid>
+<pubDate>Tue, 06 Oct 2026 08:00:00 +0000</pubDate>
+<description>Who pays for the work decides what the work can say. Notes from the Medici, a record label, and a government grant form.</description>
+<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;[This is a placeholder essay. Replace everything below the &lt;code&gt;---&lt;/code&gt; line with your own writing, or delete the file.]&lt;/p&gt;
+&lt;p&gt;Every piece of art you have ever loved was paid for by someone, and that someone had opinions.&lt;/p&gt;
+&lt;h2&gt;The Medici did not fund art&lt;/h2&gt;
+&lt;p&gt;They funded themselves, and art was the receipt. [Continue.]&lt;/p&gt;</content:encoded>
+</item>
+<item>
+<title>A small gallery in Bangsar, and why it is still open</title>
+<link>https://www.lennise.com/essays/small-gallery-bangsar/</link>
+<guid>https://www.lennise.com/essays/small-gallery-bangsar/</guid>
+<pubDate>Sun, 27 Sep 2026 08:00:00 +0000</pubDate>
+<description>Three visits, one conversation with the owner, and a theory about rent.</description>
+<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;[Placeholder essay. Replace with your own.]&lt;/p&gt;
+&lt;p&gt;The first time I went, I was the only person there. The second time, there were two of us, and the other one worked there.&lt;/p&gt;</content:encoded>
+</item>
+<item>
+<title>What I got wrong about the Dutch East India Company</title>
+<link>https://www.lennise.com/essays/what-i-got-wrong-about-the-voc/</link>
+<guid>https://www.lennise.com/essays/what-i-got-wrong-about-the-voc/</guid>
+<pubDate>Tue, 15 Sep 2026 08:00:00 +0000</pubDate>
+<description>I thought it was a company. It was closer to a state with a logo.</description>
+<content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/">&lt;p&gt;[Placeholder essay. Replace with your own.]&lt;/p&gt;
+&lt;p&gt;The VOC could mint coin, wage war, sign treaties and execute people. It also had shareholders. Pick whichever of those facts surprises you more; that is the essay.&lt;/p&gt;</content:encoded>
+</item>
+
+</channel>
+</rss>

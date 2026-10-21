@@ -1,0 +1,24 @@
+<article class="essay">
+  <header class="essay-head">
+    <p class="label">{{tags}}</p>
+    <h1>{{title}}</h1>
+    <p class="subtitle">{{subtitle}}</p>
+    <p class="meta"><time datetime="{{iso}}">{{date}}</time> · {{minutes}} minute read</p>
+  </header>
+
+  {{figure}}
+
+  <div class="prose">
+  {{body}}
+  </div>
+
+  {{letters}}
+
+  <footer class="essay-foot">
+    <p class="muted">If you know more about this than I do — and someone always does — I want to hear it. <a href="mailto:{{email}}">Reply by email</a> and the good ones go above, with credit.</p>
+    <nav class="prevnext" aria-label="Essays">
+      <span>{{newer}}</span>
+      <span>{{older}}</span>
+    </nav>
+  </footer>
+</article>
