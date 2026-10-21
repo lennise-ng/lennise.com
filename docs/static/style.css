@@ -94,16 +94,17 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .masthead .tagline {
   margin: 0;
-  font-size: 17px;
+  font-size: 21px;
+  line-height: 1.4;
   font-style: italic;
-  color: var(--muted);
+  color: var(--ink);
 }
 .masthead nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 24px;
-  margin-top: 10px;
+  margin-top: 6px;
   font-family: var(--sans);
   font-size: 13px;
   font-weight: 500;
@@ -111,6 +112,7 @@ img { max-width: 100%; height: auto; display: block; }
   text-transform: uppercase;
 }
 .masthead nav a { color: var(--muted); }
+.masthead nav a:first-child { color: var(--ink); }
 .masthead nav a:hover { color: var(--ink); }
 
 /* ---------- home */

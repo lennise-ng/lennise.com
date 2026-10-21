@@ -7,7 +7,7 @@ No framework, no database, no JavaScript, nothing that phones home.
 
 ```
 content/            ← everything you write lives here
-  about.md          ← the About page. Its first paragraph is also the homepage intro.
+  about.md          ← the About page.
   margins.md        ← short notes. One file, newest at the top or bottom, doesn't matter.
   essays/           ← one Markdown file per essay
   letters/          ← reader replies, one file per essay, named after the essay

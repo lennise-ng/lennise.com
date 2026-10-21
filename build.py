@@ -33,7 +33,7 @@ OUT = ROOT / "docs"
 
 SITE_URL = "https://www.lennise.com"
 SITE_NAME = "Lennise"
-SITE_TAGLINE = "Essays on art, business and history · written from Kuala Lumpur"
+SITE_TAGLINE = "Reflections on art, business and history · written from 🇲🇾 🇸🇬 🇯🇵"
 EMAIL = "hello@lennise.com"  # change this to the address you want letters sent to
 
 MD = markdown.Markdown(extensions=["smarty", "footnotes", "tables"])
@@ -266,11 +266,14 @@ def build():
             home_letters.append((f'{who}, on <a href="{e["url"]}">{html.escape(e["title"])}</a>', body))
     body = render(
         "index.html",
-        intro=md(about_md.split("\n\n")[0]),  # first paragraph of about.md is the homepage intro
         featured=featured,
-        essays="".join(essay_list_item(e) for e in essays[1:]),
+        earlier=("" if len(essays) < 2 else
+                 '<section class="essay-list">\n  <h2 class="label">Earlier essays</h2>\n'
+                 + "".join(essay_list_item(e) for e in essays[1:])
+                 + '\n  <p class="more"><a href="/essays/">All essays →</a></p>\n</section>'),
         margins=margins_block(margins, limit=3),
-        letters=letters_block(home_letters[:2], heading="Letters"),
+        letters=(letters_block(home_letters[:2], heading="Letters") if home_letters
+                 else '<h2 class="label">Letters</h2>'),
         email=EMAIL,
     )
     write("index.html", page(SITE_NAME, body, SITE_TAGLINE))
