@@ -1,4 +1,5 @@
 ---
+draft: true
 title: What Malacca's traders knew about trust
 subtitle: A port that ran on credit between strangers, and what a 15th-century harbourmaster can teach a founder.
 date: 2026-10-14

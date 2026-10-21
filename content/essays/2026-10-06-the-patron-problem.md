@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The patron problem
 subtitle: Who pays for the work decides what the work can say. Notes from the Medici, a record label, and a government grant form.
 date: 2026-10-06

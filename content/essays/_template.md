@@ -3,6 +3,7 @@ title: Your essay title
 subtitle: One line underneath the title. Shows on the homepage too.
 date: 2026-01-01
 tags: History · Entrepreneurship
+series: Part 1 of 3          (optional — shows before the tags)
 image: /static/images/your-image.jpg
 image_caption: What the picture is, where it comes from.
 draft: true

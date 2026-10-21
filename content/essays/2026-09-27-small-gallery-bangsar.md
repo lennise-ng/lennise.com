@@ -1,4 +1,5 @@
 ---
+draft: true
 title: A small gallery in Bangsar, and why it is still open
 subtitle: Three visits, one conversation with the owner, and a theory about rent.
 date: 2026-09-27
