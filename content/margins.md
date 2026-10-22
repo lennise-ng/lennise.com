@@ -1,3 +1,27 @@
+## 2026-10-23
+### On Replay Now
+*John Mayer’s Edge of Desire – the beautiful irrationality of longing.*
+
+When I learned that John Mayer was the headliner for the Sphere residency in Las Vegas, I found myself thinking of one of my forever favourite songs. I first heard of it 17 years ago and it still evokes the same feelings today. It’s a song I’ll never get tired of.
+
+Not because it’s his most sophisticated work. Rather, it catches the moment when an intelligent, self-aware person becomes completely irrational when he is in the presence of longing. I think it’s just so wonderfully human.
+
+There are two lyrics I’ve always found particularly brilliant: "Just a great figure eight, or a tiny infinity.”
+
+I think it’s such a clever way to describe the futility of all our running. All that movement, only to find ourselves going in circles… isn’t that exactly what longing feels like?
+
+Then the image of a mattress spinning on its axis and finding itself in someone else’s bed is so absurd. JM turned something so simple, like a bed, into something cosmic. It’s like the universe will shift just to bring two people together. It is so insane, so creative, and so painfully romantic.
+
+But what makes the song exceptional to me isn’t just its lyricism. It’s how beautifully the music carries the same emotion.
+
+There’s something about Dadd9–A that I find difficult to put into words. It’s not quite melancholic but it isn’t entirely content either. The added ninth gives it this open suspended tenderness. Almost like a musical sigh. A feeling of wanting something without quite knowing whether it will ever arrive. The return to A feels familiar, comforting even. Yet the repetition keeps the longing alive.
+
+And perhaps that’s what I love most about this song. It doesn’t try to make desire reasonable.
+
+We can be intelligent, rational, principled individuals and still find ourselves wanting someone (or something) so desperately that all reason momentarily escapes us.
+
+tags: Arts & Culture · Music
+
 ## 2026-10-22
 ### Fail smart, not fast.
 The startup world loves telling founders to fail fast. I’ve always said we should tell founders to fail smart instead. Because here’s the thing: Founders are people too. And contrary to popular belief, our capacity to absorb disappointment, a setback, or a failure is not infinite. Resilience is not a bottomless resource either.
