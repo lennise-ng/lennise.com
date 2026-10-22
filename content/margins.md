@@ -6,7 +6,7 @@ When I learned that John Mayer was the headliner for the Sphere residency in Las
 
 Not because it’s his most sophisticated work. Rather, it catches the moment when an intelligent, self-aware person becomes completely irrational when he is in the presence of longing. I think it’s just so wonderfully human.
 
-There are two lyrics I’ve always found particularly brilliant: [ADD LYRIC HERE]
+There are two lyrics I’ve always found particularly brilliant: "Just a great figure eight, or a tiny infinity.”
 
 I think it’s such a clever way to describe the futility of all our running. All that movement, only to find ourselves going in circles… isn’t that exactly what longing feels like?
 
@@ -14,7 +14,7 @@ Then the image of a mattress spinning on its axis and finding itself in someone 
 
 But what makes the song exceptional to me isn’t just its lyricism. It’s how beautifully the music carries the same emotion.
 
-The guitar riff is almost hypnotic. And there’s something about Dadd9–A that I find difficult to put into words. It’s not quite melancholic but it isn’t entirely content either. The added ninth gives it this open suspended tenderness. Almost like a musical sigh. A feeling of wanting something without quite knowing whether it will ever arrive. The return to A feels familiar, comforting even. Yet the repetition keeps the longing alive.
+There’s something about Dadd9–A that I find difficult to put into words. It’s not quite melancholic but it isn’t entirely content either. The added ninth gives it this open suspended tenderness. Almost like a musical sigh. A feeling of wanting something without quite knowing whether it will ever arrive. The return to A feels familiar, comforting even. Yet the repetition keeps the longing alive.
 
 And perhaps that’s what I love most about this song. It doesn’t try to make desire reasonable.
 
