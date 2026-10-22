@@ -1,3 +1,8 @@
+## 2026-10-25
+Never get rid of a distressed asset. You just raise its value.
+
+tags: Entrepreneurship · Investing
+
 ## 2026-10-23
 ### On Replay Now
 *John Mayer’s Edge of Desire – the beautiful irrationality of longing.*
