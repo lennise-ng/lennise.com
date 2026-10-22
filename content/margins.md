@@ -1,6 +1,6 @@
 ## 2026-10-23
-### John Mayer’s Edge of Desire – the beautiful irrationality of longing
-*On replay now.*
+### On Replay Now
+*John Mayer’s Edge of Desire – the beautiful irrationality of longing.*
 
 When I learned that John Mayer was the headliner for the Sphere residency in Las Vegas, I found myself thinking of one of my forever favourite songs. I first heard of it 17 years ago and it still evokes the same feelings today. It’s a song I’ll never get tired of.
 
