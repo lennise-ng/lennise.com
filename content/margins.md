@@ -1,3 +1,31 @@
+## 2026-10-28
+### Conversations that shaped me.
+I was 12. It’s late at night. The roads are empty. My uncle drives straight through a red light.
+
+Me: “阿發叔叔! That’s a red light! You’re supposed to stop!”
+
+Uncle: (cheekily) “But isn’t a traffic light just a light when there’s no traffic?”
+
+Me: “Nooo. It’s still a traffic light! Just because there are no cars doesn’t mean it’s not one anymore.”
+
+Uncle: “But if there are no cars, what’s the light for?”
+
+Me: “To tell cars when to stop!”
+
+Uncle: “But there are no cars.”
+
+Me: “But we’re a car!”
+
+Uncle: (laughs) “Okay, okay. But what if nobody was here? Would the light still matter?”
+
+Me: (thinking for a while) “Hmm. Maybe it doesn’t matter. But maybe it does.”
+
+Uncle: “How can it be both?”
+
+Me: “I don’t know. Maybe it depends on who’s looking at it? Like, if nobody’s there, it doesn’t matter. But if someone is, then it does. So… can’t it be both?”
+
+tags: Philosophy · Life
+
 ## 2026-10-25
 Never get rid of a distressed asset. You just raise its value.
 
