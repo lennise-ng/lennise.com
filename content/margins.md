@@ -24,6 +24,8 @@ Uncle: “How can it be both?”
 
 Me: “I don’t know. Maybe it depends on who’s looking at it? Like, if nobody’s there, it doesn’t matter. But if someone is, then it does. So… can’t it be both?”
 
+My uncle smiled. We drove on.
+
 tags: Philosophy · Life
 
 ## 2026-10-25
