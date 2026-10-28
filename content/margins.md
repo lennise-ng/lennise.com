@@ -1,3 +1,6 @@
+## 2026-10-29
+![](/static/images/2026-10-29.jpg)
+
 ## 2026-10-28
 ### Conversations that shaped me.
 I was 12. It’s late at night. The roads are empty. My uncle drives straight through a red light.
