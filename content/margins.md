@@ -1,4 +1,8 @@
 ## 2026-11-04
+A conversation over dinner tonight got me thinking about how entrepreneurs are a little like ants. We keep our heads down, working tirelessly to solve the problems right in front of us, hoping that if we keep going, something will grow. And perhaps we’re so consumed by the world we’re building that we rarely think to look up and question the larger forces that shape it.
+
+I think entrepreneurs aren’t necessarily oblivious to the bigger picture… they are often simply too occupied surviving within it to question it.
+
 We never questioned where the water came from.  
 Only that it flowed.  
 So we built, and borrowed, and called it growth.  
