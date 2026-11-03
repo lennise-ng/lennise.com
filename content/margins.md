@@ -1,3 +1,13 @@
+## 2026-11-04
+We never questioned where the water came from.  
+Only that it flowed.  
+So we built, and borrowed, and called it growth.  
+Mistaking the flow for something permanent.  
+Then someone turned off the tap.  
+And we discovered how little of it was ever ours.
+
+tags: Entrepreneurship · Investing
+
 ## 2026-10-29
 ![](/static/images/2026-10-29.jpg)
 
