@@ -15,6 +15,8 @@ tags: Entrepreneurship · Investing
 ## 2026-10-29
 ![](/static/images/2026-10-29.jpg)
 
+*"I know it was you, Fredo. You broke my heart. You broke my heart!"*
+
 ## 2026-10-28
 ### Conversations that shaped me.
 I was 12. It’s late at night. The roads are empty. My uncle drives straight through a red light.
