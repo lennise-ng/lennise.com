@@ -3,7 +3,7 @@ Just this week, hackers have been found manipulating blood-storage temperatures,
 
 While I’m genuinely concerned about where cybersecurity is heading, a small part of me can’t help but wonder how did we build a world where refrigerators, hospitals and water systems can be controlled remotely but my printer still refuses to connect to wifi 😾
 
-tags: Technology · Life
+tags: Technology · Ramblings
 
 ## 2026-11-04
 A conversation over dinner tonight got me thinking about how entrepreneurs are a little like ants. We keep our heads down, working tirelessly to solve the problems right in front of us, hoping that if we keep going, something will grow. And perhaps we’re so consumed by the world we’re building that we rarely think to look up and question the larger forces that shape it.
