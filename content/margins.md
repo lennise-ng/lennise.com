@@ -1,7 +1,7 @@
 ## 2026-11-07
 Just this week, hackers have been found manipulating blood-storage temperatures, disrupt water systems and steal billions from cryptocurrency platforms.
 
-While I’m genuinely concerned about where cybersecurity is heading, a small part of me can’t help but wonder how did we build a world where refrigerators, hospitals and water systems can be controlled remotely but my printer still refuses to connect to Wi-Fi 😾
+While I’m genuinely concerned about where cybersecurity is heading, a small part of me can’t help but wonder how did we build a world where refrigerators, hospitals and water systems can be controlled remotely but my printer still refuses to connect to wifi 😾
 
 tags: Technology · Life
 
