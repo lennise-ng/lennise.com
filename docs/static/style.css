@@ -225,6 +225,7 @@ img { max-width: 100%; height: auto; display: block; }
 
 figure { margin: 40px 0; }
 figure img { width: 100%; border: 1px solid var(--rule); }
+figure img + img { margin-top: 16px; }
 figcaption { margin-top: 12px; font-size: 15px; line-height: 1.5; color: var(--muted); font-style: italic; }
 
 .prose p { margin: 0 0 28px; }
