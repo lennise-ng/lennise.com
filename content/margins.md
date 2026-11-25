@@ -1,3 +1,9 @@
+## 2026-11-26
+### Too big to resign?
+There comes a point in a founder’s career when their succession planning becomes a matter of foreign policy.
+
+tags: Entrepreneurship · Ramblings
+
 ## 2026-11-07
 Just this week, hackers have been found manipulating blood-storage temperatures, disrupt water systems and steal billions from cryptocurrency platforms.
 
