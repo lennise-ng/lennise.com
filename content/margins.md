@@ -1,4 +1,4 @@
-## 2026-11-26
+## 2026-11-27
 I can tell  
 you’ve been through more  
 than you talk about.
