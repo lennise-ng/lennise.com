@@ -1,4 +1,15 @@
 ## 2026-11-26
+I can tell  
+you’ve been through more  
+than you talk about.
+
+You’re kind  
+in a way  
+that costs something.
+
+tags: Psychology · Life
+
+## 2026-11-26
 ### Too big to resign?
 There comes a point in a founder’s career when their succession planning becomes a matter of foreign policy.
 
