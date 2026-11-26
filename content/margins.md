@@ -7,7 +7,7 @@ You’re kind
 in a way  
 that costs something.
 
-tags: Psychology · Life
+tags: Poems
 
 ## 2026-11-26
 ### Too big to resign?
