@@ -1,3 +1,6 @@
+## 2026-11-28
+Humans spent thousands of years trying to understand consciousness. Now we spend billions trying to recreate it in machines while actively avoiding our own thoughts.
+
 ## 2026-11-27
 I can tell  
 you’ve been through more  
